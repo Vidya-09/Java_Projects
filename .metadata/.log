@@ -85,3 +85,9 @@ Binding(CTRL+SHIFT+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-08 14:42:58.159
+!MESSAGE Classpath changed for project: todo-list-api
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-08 14:42:58.162
+!MESSAGE Boot project ADDED: todo-list-api
