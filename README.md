@@ -12,9 +12,9 @@ The following projects are included:
 ---------------------------------------------------------------------------------------------
 
 Technologies Used -
-    * Backend: Spring Boot, Spring Data JPA, H2 Database (In-memory)
-    * Frontend: HTML, JavaScript, Bootstrap 5 (for basic UI)
-    * Database: H2 (in-memory by default, but can be configured to MySQL/PostgreSQL)
+    1. Backend: Spring Boot, Spring Data JPA, H2 Database (In-memory)
+    2. Frontend: HTML, JavaScript, Bootstrap 5 (for basic UI)
+    3. Database: H2 (in-memory by default, but can be configured to MySQL/PostgreSQL)
 
 ---------------------------------------------------------------------------------------------
 
