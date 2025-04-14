@@ -2,12 +2,6 @@
 
 This repository contains a collection of simple Java Spring Boot projects designed to help beginners learn and practice key concepts in Spring Boot, 
 RESTful APIs, and Database Management. Each project is self-contained and provides hands-on experience with creating APIs for common real-world use cases.
-The following projects are included:
-
-    1. Student Management System: Manage student records, courses, and enrollment.
-    2. Library Management System: Manage books, patrons, and book transactions.
-    3. To-Do List API: Manage tasks, mark them as completed, and delete them.
-    4. Contact Manager API: Manage contacts (Add, Update, Delete, View).
     
 ---------------------------------------------------------------------------------------------
 
